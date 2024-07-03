@@ -20,6 +20,8 @@ Steps to make a task:
 5. With Task Title - Update the content or title or Delete the Task.
 6. Logout
 
+Project Screenshots:
+
 <img width="1382" alt="Screenshot 2024-07-03 at 11 44 20 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/fd1d8e90-929f-4201-8166-275b18ff99de">
 <img width="1382" alt="Screenshot 2024-07-03 at 11 43 43 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/98c73b15-57b0-44a4-b23a-db4b27d8b3aa">
 <img width="1382" alt="Screenshot 2024-07-03 at 11 43 48 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/21add3ef-e316-4bcc-a38d-3f68cf039b58">
