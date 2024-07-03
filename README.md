@@ -19,3 +19,6 @@ Steps to make a task:
 4. Read (By click - Individual Id's Task will be shown
 5. With Task Title - Update the content or title or Delete the Task.
 6. Logout
+
+![Alt Text](https://example.com/path/to/image.png)
+<img width="1382" alt="Screenshot 2024-07-03 at 11 44 20 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/fd1d8e90-929f-4201-8166-275b18ff99de">
