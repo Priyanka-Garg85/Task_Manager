@@ -16,7 +16,7 @@ Steps to make a task:
 1. Register
 2. Login
 3. New Task -> Add
-4. Read (By click - Individual Id's Task will be shown
+4. Read (By click - Individual Id's Task will be shown)
 5. With Task Title - Update the content or title or Delete the Task.
 6. Logout
 
