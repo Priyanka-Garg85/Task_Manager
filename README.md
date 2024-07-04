@@ -23,6 +23,7 @@ Steps to make a task:
 Project Screenshots:
 
 <img width="1382" alt="Screenshot 2024-07-03 at 11 44 20 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/fd1d8e90-929f-4201-8166-275b18ff99de">
+<img width="1382" alt="Screenshot 2024-07-04 at 9 40 24 AM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/ac189bcb-6737-4e99-bc31-94538cc54f1c">
 <img width="1382" alt="Screenshot 2024-07-03 at 11 43 43 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/98c73b15-57b0-44a4-b23a-db4b27d8b3aa">
 <img width="1382" alt="Screenshot 2024-07-03 at 11 43 48 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/21add3ef-e316-4bcc-a38d-3f68cf039b58">
 <img width="1382" alt="Screenshot 2024-07-03 at 11 43 52 PM" src="https://github.com/Priyanka-Garg85/Task_Manager/assets/95979058/6eddba18-743b-4ce0-9b02-5b680e52568e">
